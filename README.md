@@ -1,2 +1,2 @@
 # hello-world
-Repository for practicing GitHub Flow
+My name is Dedi, I am a student and enjoy learning about version control 
